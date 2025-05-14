@@ -150,13 +150,13 @@ Here is a snippet of the pom.xml with the updated dependencies:
 1. Clone the Repository:
 
 ```
-git clone https://github.com/indiraAleaga/deysi-task.git
+git clone https://github.com/indiraAleaga/diyan-task-allwyn.git
 ```
 
 2. Navigate to the Project Directory:
 
 ```
-cd deysi-task
+cd diyan-task-allwyn
 ```
 
 ### Running Tests:
